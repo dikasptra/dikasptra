@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 My Interests: Exploring the world of Artificial Intelligence (AI) and the Internet of Things (IoT).<br>🛠️ My Background: Tinkering with web development and building physical smart devices using ESP32 & Arduino.<br>🧠 Current Focus: Diving into the fundamentals of Machine Learning and Computer Vision. I am still in the early stages of my AI journey, but I love seeing how algorithms work under the hood!<br>🚀 Current Challenge: Building practical, foundational AI projects to strengthen my skills and portfolio.<br>🌱 Let's Connect: I am always open to learning from others and collaborating on beginner-friendly projects!
+🎓 My Interests: Exploring the world of Artificial Intelligence (AI) and the Internet of Things (IoT).<br>🛠️ My Background: Tinkering with web development and building physical smart devices using ESP32 & Arduino.<br>🧠 Current Focus: Diving into the fundamentals of Machine Learning and Computer Vision. I am still in the early stages of my AI journey<br>🚀 Current Challenge: Building practical, foundational AI projects to strengthen my skills and portfolio.<br>🌱 Let's Connect: I am always open to learning from others and collaborating on beginner-friendly projects!
 
 
 ## 🌐 Socials:
